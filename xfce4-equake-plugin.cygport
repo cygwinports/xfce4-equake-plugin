@@ -1,0 +1,9 @@
+inherit xfce4
+
+NAME="xfce4-equake-plugin"
+VERSION=1.3.3
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Xfce earthquake monitor panel plugin"
+DESCRIPTION="Equake Xfce is a panel plugin for the Xfce Panel which monitors
+earthquakes and displays an update each time a new earthquake occurs."
